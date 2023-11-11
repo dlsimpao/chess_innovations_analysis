@@ -1,2 +1,4 @@
 *.RData
 *.Rhistory
+*.DS_Store
+game*.csv
