@@ -110,7 +110,7 @@ extract_evaluations = function(game_config, i){
 
 ## Extract evaluations
 ```{r}
-for(i in seq(length(magnus_matchups))){
+for(i in seq(nrow(magnus_matchups))){
   extract_evaluations(magnus_matchups, i)
   gc()
 }

@@ -1,0 +1,69 @@
+"ID","Player","Color","Move","Eval","isInnovation","Advantage","Result","Comment"
+7,"Praggnanandhaa, R","W","1. d4 ","0.3",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","1... d5 ","0.28",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","2. c4 ","0.35",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","2... e6 ","0.32",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","3. Nf3 ","0.0",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","3... dxc4 ","0.25",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","4. e3 ","0.13",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","4... a6 ","0.4",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","5. Bxc4 ","0.25",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","5... Nf6 ","0.2",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","6. O-O ","0.17",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","6... c5 ","0.36",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","7. b3 ","0.19",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","7... b6 ","0.58",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","8. Ba3 ","0.78",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","8... Nbd7 ","0.6",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","9. d5 ","0.52",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","9... exd5 ","0.7",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","10. Bxd5 ","0.52",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","10... Rb8 ","0.6",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","11. Bb2 ","0.87",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","11... Be7 ","0.59",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","12. Nc3 ","0.58",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","12... O-O ","1.03",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","13. Qc2 ","1.0",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","13... b5 ","0.69",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","14. Rfd1?! ","0.17",0,"W","0-1"," Inaccuracy. Rad1 was best. } (14. Rad1 Qc7 15. Ng5 g6 16. f4 c4 17. Ne6 fxe6 18. Bxe6+ Rf7 19. Nd5 Nxd5 20. Bxd5 Nf6)"
+7,"Carlsen, Magnus","B","14... Qc7?! ","0.91",0,"W","0-1"," Inaccuracy. h6 was best. } (14... h6)"
+7,"Praggnanandhaa, R","W","15. a4? ","-0.52",0,"B","0-1"," Mistake. Ng5 was best. } (15. Ng5 g6 16. h3 b4 17. Nce4 Nxd5 18. Rxd5 h6 19. Nf3 Bb7 20. Rd2 Qc6 21. Ng3 Nb6)"
+7,"Carlsen, Magnus","B","15... h6?! ","0.11",0,"W","0-1"," Inaccuracy. b4 was best. } (15... b4)"
+7,"Praggnanandhaa, R","W","16. axb5 ","0.33",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","16... axb5 ","0.23",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","17. Qe2 ","0.25",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","17... Qb6 ","-0.1",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","18. e4 ","0.11",0,"W","0-1",NA
+7,"Carlsen, Magnus","B","18... Re8 ","0.04",0,"W","0-1",NA
+7,"Praggnanandhaa, R","W","19. Qd2?! ","-0.64",0,"B","0-1"," Inaccuracy. e5 was best. } (19. e5)"
+7,"Carlsen, Magnus","B","19... Bf8 ","-0.71",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","20. Qf4 ","-1.08",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","20... b4 ","-1.18",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","21. Na4 ","-1.21",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","21... Nxd5 ","-1.29",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","22. Rxd5 ","-1.26",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","22... Qe6?! ","-0.59",0,"B","0-1"," Inaccuracy. Qc6 was best. } (22... Qc6)"
+7,"Praggnanandhaa, R","W","23. Rad1?? ","-2.8",0,"B","0-1"," Blunder. Nxc5 was best. } (23. Nxc5 Bxc5)"
+7,"Carlsen, Magnus","B","23... Ra8 ","-3.08",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","24. Qc1 ","-2.92",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","24... Qxe4 ","-2.73",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","25. h3 ","-2.68",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","25... Ra7 ","-2.94",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","26. Qd2 ","-3.28",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","26... Qg6 ","-2.87",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","27. Nh4 ","-3.12",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","27... Qe6 ","-3.07",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","28. Nf5 ","-3.49",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","28... c4? ","-1.57",0,"B","0-1"," Mistake. Bb7 was best. } (28... Bb7 29. Nxh6+)"
+7,"Praggnanandhaa, R","W","29. Qd4?? ","-4.12",0,"B","0-1"," Blunder. Bxg7 was best. } (29. Bxg7 Bxg7)"
+7,"Carlsen, Magnus","B","29... Nf6 ","-4.18",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","30. Nb6? ","-8.81",0,"B","0-1"," Mistake. Nxg7 was best. } (30. Nxg7 Bxg7 31. Rd6 Qxd6 32. Qxd6 Rd7 33. Bxf6 Rxd6 34. Rxd6 c3 35. Bxg7 Kxg7 36. Nxc3 bxc3)"
+7,"Carlsen, Magnus","B","30... c3 ","-8.85",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","31. Nxc8 ","-8.95",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","31... Qxd5 ","-8.46",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","32. Qxd5 ","-9.12",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","32... Nxd5 ","-9.0",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","33. Nxa7 ","-9.05",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","33... cxb2 ","-9.13",0,"B","0-1",NA
+7,"Praggnanandhaa, R","W","34. Rb1 ","-9.07",0,"B","0-1",NA
+7,"Carlsen, Magnus","B","34... Re2 ","-9.08",0,"B","0-1",NA
