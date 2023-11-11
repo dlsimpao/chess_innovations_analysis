@@ -1,0 +1,70 @@
+Game
+1. d4 { [%eval 0.3] }
+1... d5 { [%eval 0.28] }
+2. c4 { [%eval 0.35] }
+2... e6 { [%eval 0.32] }
+3. Nf3 { [%eval 0.0] }
+3... dxc4 { [%eval 0.25] }
+4. e3 { [%eval 0.13] }
+4... a6 { [%eval 0.4] }
+5. Bxc4 { [%eval 0.25] }
+5... Nf6 { [%eval 0.2] }
+6. O-O { [%eval 0.17] }
+6... c5 { [%eval 0.36] }
+7. b3 { [%eval 0.19] }
+7... b6 { [%eval 0.58] }
+8. Ba3 { [%eval 0.78] }
+8... Nbd7 { [%eval 0.6] }
+9. d5 { [%eval 0.52] }
+9... exd5 { [%eval 0.7] }
+10. Bxd5 { [%eval 0.52] }
+10... Rb8 { [%eval 0.6] }
+11. Bb2 { [%eval 0.87] }
+11... Be7 { [%eval 0.59] }
+12. Nc3 { [%eval 0.58] }
+12... O-O { [%eval 1.03] }
+13. Qc2 { [%eval 1.0] }
+13... b5 { [%eval 0.69] }
+14. Rfd1?! { [%eval 0.17] } { Inaccuracy. Rad1 was best. } (14. Rad1 Qc7 15. Ng5 g6 16. f4 c4 17. Ne6 fxe6 18. Bxe6+ Rf7 19. Nd5 Nxd5 20. Bxd5 Nf6)
+14... Qc7?! { [%eval 0.91] } { Inaccuracy. h6 was best. } (14... h6)
+15. a4? { [%eval -0.52] } { Mistake. Ng5 was best. } (15. Ng5 g6 16. h3 b4 17. Nce4 Nxd5 18. Rxd5 h6 19. Nf3 Bb7 20. Rd2 Qc6 21. Ng3 Nb6)
+15... h6?! { [%eval 0.11] } { Inaccuracy. b4 was best. } (15... b4)
+16. axb5 { [%eval 0.33] }
+16... axb5 { [%eval 0.23] }
+17. Qe2 { [%eval 0.25] }
+17... Qb6 { [%eval -0.1] }
+18. e4 { [%eval 0.11] }
+18... Re8 { [%eval 0.04] }
+19. Qd2?! { [%eval -0.64] } { Inaccuracy. e5 was best. } (19. e5)
+19... Bf8 { [%eval -0.71] }
+20. Qf4 { [%eval -1.08] }
+20... b4 { [%eval -1.18] }
+21. Na4 { [%eval -1.21] }
+21... Nxd5 { [%eval -1.29] }
+22. Rxd5 { [%eval -1.26] }
+22... Qe6?! { [%eval -0.59] } { Inaccuracy. Qc6 was best. } (22... Qc6)
+23. Rad1?? { [%eval -2.8] } { Blunder. Nxc5 was best. } (23. Nxc5 Bxc5)
+23... Ra8 { [%eval -3.08] }
+24. Qc1 { [%eval -2.92] }
+24... Qxe4 { [%eval -2.73] }
+25. h3 { [%eval -2.68] }
+25... Ra7 { [%eval -2.94] }
+26. Qd2 { [%eval -3.28] }
+26... Qg6 { [%eval -2.87] }
+27. Nh4 { [%eval -3.12] }
+27... Qe6 { [%eval -3.07] }
+28. Nf5 { [%eval -3.49] }
+28... c4? { [%eval -1.57] } { Mistake. Bb7 was best. } (28... Bb7 29. Nxh6+)
+29. Qd4?? { [%eval -4.12] } { Blunder. Bxg7 was best. } (29. Bxg7 Bxg7)
+29... Nf6 { [%eval -4.18] }
+30. Nb6? { [%eval -8.81] } { Mistake. Nxg7 was best. } (30. Nxg7 Bxg7 31. Rd6 Qxd6 32. Qxd6 Rd7 33. Bxf6 Rxd6 34. Rxd6 c3 35. Bxg7 Kxg7 36. Nxc3 bxc3)
+30... c3 { [%eval -8.85] }
+31. Nxc8 { [%eval -8.95] }
+31... Qxd5 { [%eval -8.46] }
+32. Qxd5 { [%eval -9.12] }
+32... Nxd5 { [%eval -9.0] }
+33. Nxa7 { [%eval -9.05] }
+33... cxb2 { [%eval -9.13] }
+34. Rb1 { [%eval -9.07] }
+34... Re2 { [%eval -9.08] }
+{ 0-1 White resigns. } 0-1

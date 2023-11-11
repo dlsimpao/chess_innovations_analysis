@@ -1,0 +1,42 @@
+"","ID","Player","Color","Move","Eval","isInnovation","Advantage","Result","Comment"
+"1",1,"Esipenko, Andrey","W","1. d4 ","0.3",0,"W","1/2-1/2",NA
+"2",1,"Carlsen, Magnus","B","1... d5 ","0.28",0,"W","1/2-1/2",NA
+"3",1,"Esipenko, Andrey","W","2. c4 ","0.35",0,"W","1/2-1/2",NA
+"4",1,"Carlsen, Magnus","B","2... e6 ","0.38",0,"W","1/2-1/2",NA
+"5",1,"Esipenko, Andrey","W","3. Nf3 ","0.0",0,"W","1/2-1/2",NA
+"6",1,"Carlsen, Magnus","B","3... Nf6 ","0.22",0,"W","1/2-1/2",NA
+"7",1,"Esipenko, Andrey","W","4. Nc3 ","0.0",0,"W","1/2-1/2",NA
+"8",1,"Carlsen, Magnus","B","4... c6 ","0.25",0,"W","1/2-1/2",NA
+"9",1,"Esipenko, Andrey","W","5. e3 ","0.01",0,"W","1/2-1/2",NA
+"10",1,"Carlsen, Magnus","B","5... Nbd7 ","0.23",0,"W","1/2-1/2",NA
+"11",1,"Esipenko, Andrey","W","6. Qc2 ","0.05",0,"W","1/2-1/2",NA
+"12",1,"Carlsen, Magnus","B","6... b6 ","0.39",0,"W","1/2-1/2",NA
+"13",1,"Esipenko, Andrey","W","7. b3 ","0.29",0,"W","1/2-1/2",NA
+"14",1,"Carlsen, Magnus","B","7... Bb7 ","0.3",0,"W","1/2-1/2",NA
+"15",1,"Esipenko, Andrey","W","8. Bd3 ","0.19",0,"W","1/2-1/2",NA
+"16",1,"Carlsen, Magnus","B","8... Bd6 ","0.17",0,"W","1/2-1/2",NA
+"17",1,"Esipenko, Andrey","W","9. O-O ","0.31",0,"W","1/2-1/2",NA
+"18",1,"Carlsen, Magnus","B","9... O-O ","0.24",0,"W","1/2-1/2",NA
+"19",1,"Esipenko, Andrey","W","10. Bb2 ","0.38",0,"W","1/2-1/2",NA
+"20",1,"Carlsen, Magnus","B","10... c5 ","0.37",0,"W","1/2-1/2",NA
+"21",1,"Esipenko, Andrey","W","11. cxd5 ","0.33",0,"W","1/2-1/2",NA
+"22",1,"Carlsen, Magnus","B","11... exd5 ","0.25",0,"W","1/2-1/2",NA
+"23",1,"Esipenko, Andrey","W","12. Rfd1 ","0.58",0,"W","1/2-1/2",NA
+"24",1,"Carlsen, Magnus","B","12... Re8 ","0.54",0,"W","1/2-1/2",NA
+"25",1,"Esipenko, Andrey","W","13. Rac1 ","0.46",0,"W","1/2-1/2",NA
+"26",1,"Carlsen, Magnus","B","13... a6 ","0.44",0,"W","1/2-1/2",NA
+"27",1,"Esipenko, Andrey","W","14. Bf5 ","0.31",0,"W","1/2-1/2",NA
+"28",1,"Carlsen, Magnus","B","14... Rc8 ","0.15",0,"W","1/2-1/2",NA
+"29",1,"Esipenko, Andrey","W","15. dxc5 ","0.05",0,"W","1/2-1/2",NA
+"30",1,"Carlsen, Magnus","B","15... bxc5 ","0.66",0,"W","1/2-1/2",NA
+"31",1,"Esipenko, Andrey","W","16. Na4?! ","-0.1",0,"B","1/2-1/2"," Inaccuracy. Ng5 was best. } (16. Ng5 g6)"
+"32",1,"Carlsen, Magnus","B","16... Rc7 ","-0.07",0,"B","1/2-1/2",NA
+"33",1,"Esipenko, Andrey","W","17. Bc3? ","-1.2",0,"B","1/2-1/2"," Mistake. Qd3 was best. } (17. Qd3)"
+"34",1,"Carlsen, Magnus","B","17... Qe7? ","0.0",0,"W","1/2-1/2"," Mistake. d4 was best. } (17... d4 18. exd4)"
+"35",1,"Esipenko, Andrey","W","18. Ba5 ","0.0",0,"W","1/2-1/2",NA
+"36",1,"Carlsen, Magnus","B","18... Rc6 ","0.0",0,"W","1/2-1/2",NA
+"37",1,"Esipenko, Andrey","W","19. Bc3 ","0.0",0,"W","1/2-1/2",NA
+"38",1,"Carlsen, Magnus","B","19... Rc7 ","-0.16",0,"B","1/2-1/2",NA
+"39",1,"Esipenko, Andrey","W","20. Ba5 ","0.0",0,"W","1/2-1/2",NA
+"40",1,"Carlsen, Magnus","B","20... Rc6 ","0.0",0,"W","1/2-1/2",NA
+"41",1,"Esipenko, Andrey","W","21. Bc3 ","0.0",0,"W","1/2-1/2",NA

@@ -1,0 +1,63 @@
+Game
+1. Nf3 { [%eval 0.22] }
+1... d5 { [%eval 0.09] }
+2. d4 { [%eval 0.28] }
+2... Nf6 { [%eval 0.09] }
+3. c4 { [%eval 0.16] }
+3... e6 { [%eval 0.22] }
+4. g3 { [%eval 0.18] }
+4... dxc4 { [%eval 0.36] }
+5. Bg2 { [%eval 0.14] }
+5... Nc6 { [%eval 0.3] }
+6. O-O { [%eval 0.0] }
+6... Rb8 { [%eval 0.2] }
+7. Be3 { [%eval 0.0] }
+7... Bd6 { [%eval 0.41] }
+8. Qc1 { [%eval 0.4] }
+8... b5 { [%eval 0.22] }
+9. b3 { [%eval 0.25] }
+9... Bb7 { [%eval 0.44] }
+10. bxc4 { [%eval 0.27] }
+10... bxc4 { [%eval 0.54] }
+11. Qxc4 { [%eval 0.25] }
+11... Nb4 { [%eval 0.24] }
+12. a3 { [%eval 0.22] }
+12... Nbd5 { [%eval 0.2] }
+13. Bg5 { [%eval 0.19] }
+13... O-O { [%eval 0.42] }
+14. Nbd2 { [%eval 0.21] }
+14... h6 { [%eval 0.19] }
+15. Bxf6 { [%eval 0.17] }
+15... Nxf6 { [%eval 0.12] }
+16. Rfc1 { [%eval 0.25] }
+16... Nd7 { [%eval 0.12] }
+17. Qa4 { [%eval 0.21] }
+17... c5 { [%eval 0.17] }
+18. Qxa7 { [%eval 0.09] }
+18... Bxf3?! { [%eval 0.81] } { Inaccuracy. Bd5 was best. } (18... Bd5)
+19. Bxf3 { [%eval 0.43] }
+19... cxd4 { [%eval 0.31] }
+20. Ra2 { [%eval 0.26] }
+20... Qe7? { [%eval 1.55] } { Mistake. Ne5 was best. } (20... Ne5 21. Be4)
+21. a4 { [%eval 1.14] }
+21... Rfd8?! { [%eval 1.95] } { Inaccuracy. Rb4 was best. } (21... Rb4 22. a5)
+22. Qxd4 { [%eval 1.84] }
+22... Rb4?! { [%eval 2.74] } { Inaccuracy. Ne5 was best. } (22... Ne5 23. Qe3 Nxf3+ 24. Qxf3 Bb4 25. Nc4 Qg5 26. Rcc2 Rd5 27. Ne3 Rc5 28. Kg2 Ba5 29. Rxc5)
+23. Qc3 { [%eval 2.48] }
+23... Nb6? { [%eval 4.11] } { Mistake. Ne5 was best. } (23... Ne5 24. Be4 Qa7 25. a5 Rb5 26. a6 f5 27. Bd3 Rc5 28. Nc4 Rc6 29. Rca1 Rdc8 30. Ra4)
+24. a5 { [%eval 4.19] }
+24... Qa7 { [%eval 4.28] }
+25. Qe3 { [%eval 4.17] }
+25... Be7? { [%eval 7.05] } { Mistake. Bb8 was best. } (25... Bb8 26. Qa3 Ra4 27. axb6 Rxa3 28. bxa7 Rxa2 29. a8=Q Rxa8 30. Bxa8 Bxg3 31. hxg3 Rxd2 32. Rc8+)
+26. Rcc2 { [%eval 6.81] }
+26... Bg5 { [%eval 6.85] }
+27. Qc5 { [%eval 6.84] }
+27... Be7 { [%eval 8.1] }
+28. axb6 { [%eval 8.0] }
+28... Qxa2 { [%eval 7.98] }
+29. Qxe7 { [%eval 7.48] }
+29... Qxc2 { [%eval 7.92] }
+30. Qxd8+ { [%eval 7.88] }
+30... Kh7 { [%eval 7.89] }
+31. b7 { [%eval 7.75] }
+{ 1-0 Black resigns. } 1-0

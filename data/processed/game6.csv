@@ -1,0 +1,62 @@
+"","ID","Player","Color","Move","Eval","isInnovation","Advantage","Result","Comment"
+"1",6,"Carlsen, Magnus","W","1. Nf3 ","0.22",0,"W","1-0",NA
+"2",6,"Rapport, Richard","B","1... d5 ","0.09",0,"W","1-0",NA
+"3",6,"Carlsen, Magnus","W","2. d4 ","0.28",0,"W","1-0",NA
+"4",6,"Rapport, Richard","B","2... Nf6 ","0.09",0,"W","1-0",NA
+"5",6,"Carlsen, Magnus","W","3. c4 ","0.16",0,"W","1-0",NA
+"6",6,"Rapport, Richard","B","3... e6 ","0.22",0,"W","1-0",NA
+"7",6,"Carlsen, Magnus","W","4. g3 ","0.18",0,"W","1-0",NA
+"8",6,"Rapport, Richard","B","4... dxc4 ","0.36",0,"W","1-0",NA
+"9",6,"Carlsen, Magnus","W","5. Bg2 ","0.14",0,"W","1-0",NA
+"10",6,"Rapport, Richard","B","5... Nc6 ","0.3",0,"W","1-0",NA
+"11",6,"Carlsen, Magnus","W","6. O-O ","0.0",0,"W","1-0",NA
+"12",6,"Rapport, Richard","B","6... Rb8 ","0.2",0,"W","1-0",NA
+"13",6,"Carlsen, Magnus","W","7. Be3 ","0.0",0,"W","1-0",NA
+"14",6,"Rapport, Richard","B","7... Bd6 ","0.41",0,"W","1-0",NA
+"15",6,"Carlsen, Magnus","W","8. Qc1 ","0.4",0,"W","1-0",NA
+"16",6,"Rapport, Richard","B","8... b5 ","0.22",0,"W","1-0",NA
+"17",6,"Carlsen, Magnus","W","9. b3 ","0.25",0,"W","1-0",NA
+"18",6,"Rapport, Richard","B","9... Bb7 ","0.44",0,"W","1-0",NA
+"19",6,"Carlsen, Magnus","W","10. bxc4 ","0.27",0,"W","1-0",NA
+"20",6,"Rapport, Richard","B","10... bxc4 ","0.54",0,"W","1-0",NA
+"21",6,"Carlsen, Magnus","W","11. Qxc4 ","0.25",0,"W","1-0",NA
+"22",6,"Rapport, Richard","B","11... Nb4 ","0.24",0,"W","1-0",NA
+"23",6,"Carlsen, Magnus","W","12. a3 ","0.22",0,"W","1-0",NA
+"24",6,"Rapport, Richard","B","12... Nbd5 ","0.2",0,"W","1-0",NA
+"25",6,"Carlsen, Magnus","W","13. Bg5 ","0.19",0,"W","1-0",NA
+"26",6,"Rapport, Richard","B","13... O-O ","0.42",0,"W","1-0",NA
+"27",6,"Carlsen, Magnus","W","14. Nbd2 ","0.21",0,"W","1-0",NA
+"28",6,"Rapport, Richard","B","14... h6 ","0.19",0,"W","1-0",NA
+"29",6,"Carlsen, Magnus","W","15. Bxf6 ","0.17",0,"W","1-0",NA
+"30",6,"Rapport, Richard","B","15... Nxf6 ","0.12",0,"W","1-0",NA
+"31",6,"Carlsen, Magnus","W","16. Rfc1 ","0.25",0,"W","1-0",NA
+"32",6,"Rapport, Richard","B","16... Nd7 ","0.12",0,"W","1-0",NA
+"33",6,"Carlsen, Magnus","W","17. Qa4 ","0.21",0,"W","1-0",NA
+"34",6,"Rapport, Richard","B","17... c5 ","0.17",0,"W","1-0",NA
+"35",6,"Carlsen, Magnus","W","18. Qxa7 ","0.09",0,"W","1-0",NA
+"36",6,"Rapport, Richard","B","18... Bxf3?! ","0.81",0,"W","1-0"," Inaccuracy. Bd5 was best. } (18... Bd5)"
+"37",6,"Carlsen, Magnus","W","19. Bxf3 ","0.43",0,"W","1-0",NA
+"38",6,"Rapport, Richard","B","19... cxd4 ","0.31",0,"W","1-0",NA
+"39",6,"Carlsen, Magnus","W","20. Ra2 ","0.26",0,"W","1-0",NA
+"40",6,"Rapport, Richard","B","20... Qe7? ","1.55",0,"W","1-0"," Mistake. Ne5 was best. } (20... Ne5 21. Be4)"
+"41",6,"Carlsen, Magnus","W","21. a4 ","1.14",0,"W","1-0",NA
+"42",6,"Rapport, Richard","B","21... Rfd8?! ","1.95",0,"W","1-0"," Inaccuracy. Rb4 was best. } (21... Rb4 22. a5)"
+"43",6,"Carlsen, Magnus","W","22. Qxd4 ","1.84",0,"W","1-0",NA
+"44",6,"Rapport, Richard","B","22... Rb4?! ","2.74",0,"W","1-0"," Inaccuracy. Ne5 was best. } (22... Ne5 23. Qe3 Nxf3+ 24. Qxf3 Bb4 25. Nc4 Qg5 26. Rcc2 Rd5 27. Ne3 Rc5 28. Kg2 Ba5 29. Rxc5)"
+"45",6,"Carlsen, Magnus","W","23. Qc3 ","2.48",0,"W","1-0",NA
+"46",6,"Rapport, Richard","B","23... Nb6? ","4.11",0,"W","1-0"," Mistake. Ne5 was best. } (23... Ne5 24. Be4 Qa7 25. a5 Rb5 26. a6 f5 27. Bd3 Rc5 28. Nc4 Rc6 29. Rca1 Rdc8 30. Ra4)"
+"47",6,"Carlsen, Magnus","W","24. a5 ","4.19",0,"W","1-0",NA
+"48",6,"Rapport, Richard","B","24... Qa7 ","4.28",0,"W","1-0",NA
+"49",6,"Carlsen, Magnus","W","25. Qe3 ","4.17",0,"W","1-0",NA
+"50",6,"Rapport, Richard","B","25... Be7? ","7.05",0,"W","1-0"," Mistake. Bb8 was best. } (25... Bb8 26. Qa3 Ra4 27. axb6 Rxa3 28. bxa7 Rxa2 29. a8=Q Rxa8 30. Bxa8 Bxg3 31. hxg3 Rxd2 32. Rc8+)"
+"51",6,"Carlsen, Magnus","W","26. Rcc2 ","6.81",0,"W","1-0",NA
+"52",6,"Rapport, Richard","B","26... Bg5 ","6.85",0,"W","1-0",NA
+"53",6,"Carlsen, Magnus","W","27. Qc5 ","6.84",0,"W","1-0",NA
+"54",6,"Rapport, Richard","B","27... Be7 ","8.1",0,"W","1-0",NA
+"55",6,"Carlsen, Magnus","W","28. axb6 ","8.0",0,"W","1-0",NA
+"56",6,"Rapport, Richard","B","28... Qxa2 ","7.98",0,"W","1-0",NA
+"57",6,"Carlsen, Magnus","W","29. Qxe7 ","7.48",0,"W","1-0",NA
+"58",6,"Rapport, Richard","B","29... Qxc2 ","7.92",0,"W","1-0",NA
+"59",6,"Carlsen, Magnus","W","30. Qxd8+ ","7.88",0,"W","1-0",NA
+"60",6,"Rapport, Richard","B","30... Kh7 ","7.89",0,"W","1-0",NA
+"61",6,"Carlsen, Magnus","W","31. b7 ","7.75",0,"W","1-0",NA

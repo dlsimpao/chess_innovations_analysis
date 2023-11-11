@@ -1,0 +1,117 @@
+```{r}
+setwd("~/repo=rstudio/chess_innovation_analyzer")
+
+```
+
+```{r, warning=FALSE, eval=FALSE}
+to_install = readLines("packages.txt")
+install.packages(to_install)
+```
+
+```{r}
+library(bigchess)
+library(tidyverse)
+```
+
+GAME_ID
+1 - Andrey, Esipenko - Carlsen, Magnus
+2 - Carlsen, Magnus - Giri, Anish
+3 - Jan-Krzysztof, Duda - Carlsen, Magnus
+4 - Carlsen, Magnus - Van Foreest, Jorden
+5 - Grandelius, Nils - Carlsen, Magnus
+6 - Carlsen, Magnus - Rapport, Richard
+7 - Praggnanandhaa, R - Carlsen, Magnus
+8 - Shankland, Sam- Carlsen, Magnus
+
+
+```{r}
+# creating metadata
+magnus_matchups = data.frame(GAME_ID=1:8,
+           matchups =c("Andrey, Esipenko - Carlsen, Magnus",
+                      "Carlsen, Magnus - Giri, Anish",
+                      "Jan-Krzysztof, Duda - Carlsen, Magnus",
+                      "Carlsen, Magnus - Van Foreest, Jorden",
+                      "Grandelius, Nils - Carlsen, Magnus",
+                      "Carlsen, Magnus - Rapport, Richard",
+                      "Praggnanandhaa, R - Carlsen, Magnus",
+                      "Shankland, Sam - Carlsen, Magnus"),
+           source_files = c("tata-steel-2022-magnus-carlsen-andrey-esipenko.txt",
+                    "tata-steel-2022-magnus-carlsen-giri-anish.txt",
+                    "tata-steel-2022-jankrzysztof-duda-magnus-carlsen.txt",
+                    "tata-steel-2022-magnus-carlsen-vanforeest-jorden.txt",
+                    "tata-steel-2022-grandelius-nils-magnus-carlsen.txt",
+                    "tata-steel-2022-magnus-carlsen-richard-rapport.txt",
+                    "tata-steel-2022-praggnanandhaa-r-magnus-carlsen.txt",
+                    "tata-steel-2022-sam-shankland-magnus-carlsen.txt"))
+
+magnus_matchups = magnus_matchups %>%
+  separate("matchups", into=c("white","black"), sep=" - ", remove=FALSE)
+
+write.csv(magnus_matchups, "data/processed/magnus_tata_steel_matchups.csv")
+```
+
+# Using bigchess to extract information
+```{r}
+# "data/chess/tata-steel-2022-magnus-carlsen-andrey-esipenko.pgn"
+file = "lichess_study_tata-steel-2022-magnus-carlsens-games_by_penguin56_2022.01.24"
+
+game_png = read.pgn(paste0("data/raw/",  file,".pgn"))
+
+```
+```{r}
+process_game_txt = function(game_txt, game_id, game_png){
+  print(paste0("processing game number ", game_id))
+  txt_len = nrow(game_txt)
+  
+  # clean up values
+  print("cleaning up values...")
+  game_txt = game_txt %>% separate(col="game", into=c("Move","Eval","Comment"), sep = "{", fill="right")
+  
+  game_txt$Eval = game_txt$Eval %>% str_extract("-*\\d\\.\\d{1,2}")
+  
+  print("creating column sets...")
+  # creating columns
+  game_txt$Color = rep(c("W","B"), length.out=txt_len)
+  game_txt$isInnovation = rep(0, length.out=txt_len)
+  game_txt$Player = rep(c(game_png$White[game_id],game_png$Black[game_id]), length.out=txt_len)
+  game_txt$Result = rep(as.character(game_png$Result[game_id]), length.out=txt_len)
+  game_txt$Advantage = rep("",length.out=txt_len)
+  game_txt$ID = rep(game_id, length.out=txt_len)
+  
+  # marking advantage
+  game_txt = game_txt %>% mutate(Advantage = case_when(
+    Eval > 0 ~ "W",
+    Eval < 0 ~ "B",
+    Eval == 0 ~ "",
+    TRUE ~ "Error"
+  ))
+  
+  game_txt = game_txt %>% select(
+    ID, Player, Color, Move, Eval, isInnovation, Advantage, Result, Comment
+  )
+  
+  return(game_txt)
+}
+
+extract_evaluations = function(game_config, i){
+  file = game_config$source_files[i]
+
+  game_raw = read.delim2(paste0("data/raw/",file), sep="\n", header=TRUE)
+  game_raw = data.frame(game = head(game_raw$Game,-1))
+
+  game_processed = process_game_txt(game_raw, i, game_png)
+  
+  output_location = paste0("data/processed/", game_config$matchups[i],".csv")
+  
+  print(paste0("writing file to ",output_location))
+  write_csv(game_processed, output_location, quote="all", na="NA")
+}
+```
+
+## Extract evaluations
+```{r}
+for(i in seq(length(magnus_matchups))){
+  extract_evaluations(magnus_matchups, i)
+  gc()
+}
+```

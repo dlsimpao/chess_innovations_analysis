@@ -1,0 +1,160 @@
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.15"]
+[Round "01"]
+[White "Esipenko, Andrey"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2714"]
+[BlackElo "2865"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:53:59"]
+[Variant "Standard"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stoltz Variation"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. d4 { [%eval 0.3] } 1... d5 { [%eval 0.28] } 2. c4 { [%eval 0.35] } 2... e6 { [%eval 0.32] } 3. Nf3 { [%eval 0.0] } 3... Nf6 { [%eval 0.22] } 4. Nc3 { [%eval 0.0] } 4... c6 { [%eval 0.25] } 5. e3 { [%eval 0.01] } 5... Nbd7 { [%eval 0.23] } 6. Qc2 { [%eval 0.05] } 6... b6 { [%eval 0.39] } 7. b3 { [%eval 0.29] } 7... Bb7 { [%eval 0.3] } 8. Bd3 { [%eval 0.19] } 8... Bd6 { [%eval 0.17] } 9. O-O { [%eval 0.31] } 9... O-O { [%eval 0.24] } 10. Bb2 { [%eval 0.38] } 10... c5 { [%eval 0.37] } 11. cxd5 { [%eval 0.33] } 11... exd5 { [%eval 0.25] } 12. Rfd1 { [%eval 0.58] } 12... Re8 { [%eval 0.54] } 13. Rac1 { [%eval 0.46] } 13... a6 { [%eval 0.44] } 14. Bf5 { [%eval 0.31] } 14... Rc8 { [%eval 0.15] } 15. dxc5 { [%eval 0.05] } 15... bxc5 { [%eval 0.66] } 16. Na4?! { [%eval -0.1] } { Inaccuracy. Ng5 was best. } (16. Ng5 g6) 16... Rc7 { [%eval -0.07] } 17. Bc3? { [%eval -1.2] } { Mistake. Qd3 was best. } (17. Qd3) 17... Qe7? { [%eval 0.0] } { Mistake. d4 was best. } (17... d4 18. exd4) 18. Ba5 { [%eval 0.0] } 18... Rc6 { [%eval 0.0] } 19. Bc3 { [%eval 0.0] } 19... Rc7 { [%eval -0.16] } 20. Ba5 { [%eval 0.0] } 20... Rc6 { [%eval 0.0] } 21. Bc3 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.16"]
+[Round "02"]
+[White "Carlsen, Magnus"]
+[Black "Giri, Anish"]
+[Result "1-0"]
+[WhiteElo "2865"]
+[BlackElo "2772"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:54:25"]
+[Variant "Standard"]
+[ECO "E06"]
+[Opening "Catalan Opening: Closed"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. d4 { [%eval 0.3] } 1... Nf6 { [%eval 0.0] } 2. c4 { [%eval 0.23] } 2... e6 { [%eval 0.28] } 3. Nf3 { [%eval 0.0] } 3... d5 { [%eval 0.22] } 4. g3 { [%eval 0.18] } 4... Be7 { [%eval 0.22] } 5. Bg2 { [%eval 0.22] } 5... O-O { [%eval 0.31] } 6. O-O { [%eval 0.22] } 6... dxc4 { [%eval 0.31] } 7. Na3 { [%eval 0.0] } 7... Bxa3 { [%eval 0.0] } 8. bxa3 { [%eval -0.01] } 8... Bd7 { [%eval -0.04] } 9. a4 { [%eval -0.1] } 9... Bc6 { [%eval -0.25] } 10. Ba3 { [%eval -0.18] } 10... Re8 { [%eval -0.29] } 11. Qc2 { [%eval -0.24] } 11... Nbd7 { [%eval -0.26] } 12. Rac1 { [%eval -0.04] } 12... a6 { [%eval -0.16] } 13. Qxc4 { [%eval -0.2] } 13... Nb6 { [%eval -0.08] } 14. Qc3 { [%eval -0.25] } 14... Nxa4 { [%eval -0.27] } 15. Qb3 { [%eval -0.58] } 15... Qd5?! { [%eval 0.0] } { Inaccuracy. Nb6 was best. } (15... Nb6 16. Rxc6 bxc6 17. Ne5 Qxd4 18. Nxc6 Qd2 19. Ne7+ Kh8 20. Bxa8 Rxa8 21. Qb2 Qxb2 22. Bxb2) 16. Rxc6 { [%eval 0.0] } 16... Qxc6 { [%eval 0.0] } 17. Ne5 { [%eval 0.0] } 17... Qb5 { [%eval 0.0] } 18. Qc2 { [%eval 0.0] } 18... Nd5? { [%eval 1.5] } { Mistake. Nb6 was best. } (18... Nb6 19. Bxb7 Nc4 20. Bxa8 Nxa3 21. Qc6 Qxe2 22. Bb7 Qxa2 23. Ng4 Rf8 24. Nxf6+ gxf6 25. Qxc7) 19. Rb1 { [%eval 1.55] } 19... Qa5 { [%eval 1.48] } 20. Bxd5?! { [%eval 0.76] } { Inaccuracy. Be4 was best. } (20. Be4 Nf6 21. Bxb7 Nc3 22. Rb3 Nb5 23. Bc5 Rab8 24. Bc6 Nd6 25. Bxe8 Rxe8 26. Rb1 Nde4) 20... exd5? { [%eval 2.36] } { Mistake. Nc3 was best. } (20... Nc3 21. Bb4 Nxe2+ 22. Qxe2 Qxd5 23. Rc1 Qxd4 24. Rc4 Qa1+ 25. Kg2 f6 26. Ng4 Qb1 27. Bc3) 21. Rxb7 { [%eval 2.49] } 21... c5 { [%eval 3.25] } 22. Qf5 { [%eval 2.97] } 22... Rf8 { [%eval 3.02] } 23. Nxf7 { [%eval 4.87] } 23... Qd8 { [%eval 5.83] } 24. dxc5 { [%eval 5.93] } 24... Qf6 { [%eval 5.88] } 25. Qxf6 { [%eval 5.85] } 25... gxf6 { [%eval 5.93] } 26. Nh6+ { [%eval 6.26] } 26... Kh8 { [%eval 6.07] } 27. c6 { [%eval 5.96] } 27... Rfc8 { [%eval 5.99] } 28. c7 { [%eval 6.09] } 28... Nc3 { [%eval 6.09] } 29. Bb2 { [%eval 5.43] } 29... d4 { [%eval 5.47] } 30. Nf7+ { [%eval 5.72] } 30... Kg7 { [%eval 5.57] } 31. Nd6 { [%eval 5.53] } 31... Kg6 { [%eval 5.73] } 32. Kf1 { [%eval 5.48] } 32... Nb5 { [%eval 5.5] } 33. Nxc8 { [%eval 5.5] } 33... Rxc8 { [%eval 5.36] } 34. a4 { [%eval 5.46] } 34... Nxc7 { [%eval 5.64] } 35. Bxd4 { [%eval 5.75] } 35... Ne6 { [%eval 6.0] } 36. Be3 { [%eval 5.87] } { 1-0 Black resigns. } 1-0
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.17"]
+[Round "03"]
+[White "Duda, Jan-Krzysztof"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2760"]
+[BlackElo "2865"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:54:41"]
+[Variant "Standard"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed, Anti-Marshall"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. e4 { [%eval 0.25] } 1... e5 { [%eval 0.12] } 2. Nf3 { [%eval 0.28] } 2... Nc6 { [%eval 0.37] } 3. Bb5 { [%eval 0.26] } 3... a6 { [%eval 0.31] } 4. Ba4 { [%eval 0.33] } 4... Nf6 { [%eval 0.37] } 5. O-O { [%eval 0.35] } 5... Be7 { [%eval 0.39] } 6. Re1 { [%eval 0.45] } 6... b5 { [%eval 0.41] } 7. Bb3 { [%eval 0.14] } 7... O-O { [%eval 0.32] } 8. a4 { [%eval 0.39] } 8... Rb8 { [%eval 0.69] } 9. axb5 { [%eval 0.63] } 9... axb5 { [%eval 0.5] } 10. h3 { [%eval 0.61] } 10... d6 { [%eval 0.39] } 11. c3 { [%eval 0.61] } 11... b4 { [%eval 0.49] } 12. d3 { [%eval 0.59] } 12... bxc3 { [%eval 0.65] } 13. bxc3 { [%eval 0.43] } 13... h6 { [%eval 0.42] } 14. Be3 { [%eval 0.56] } 14... Re8 { [%eval 0.62] } 15. Nbd2 { [%eval 0.42] } 15... Bf8 { [%eval 0.43] } 16. Qc2 { [%eval 0.5] } 16... Be6 { [%eval 0.38] } 17. Bxe6 { [%eval 0.57] } 17... Rxe6 { [%eval 0.43] } 18. d4 { [%eval 0.48] } 18... exd4 { [%eval 0.45] } 19. Nxd4 { [%eval 0.37] } 19... Nxd4 { [%eval 0.38] } 20. cxd4 { [%eval 0.58] } 20... Qe8 { [%eval 0.41] } 21. d5 { [%eval 0.34] } 21... Re7 { [%eval 0.48] } 22. Ra4 { [%eval 0.4] } 22... Rb2 { [%eval 0.88] } 23. Qxb2 { [%eval 0.87] } 23... Qxa4 { [%eval 0.64] } 24. Bd4 { [%eval 0.71] } 24... Nh5 { [%eval 0.61] } 25. Ra1 { [%eval 0.52] } 25... Qd7?! { [%eval 1.32] } { Inaccuracy. Qe8 was best. } (25... Qe8 26. g3 c5 27. Bc3 f5 28. e5 dxe5 29. Nc4 Rd7 30. Qb3 e4 31. Be5 f4 32. gxf4) 26. Qc3 { [%eval 0.8] } 26... Nf4 { [%eval 0.79] } 27. Qf3 { [%eval 0.76] } 27... Ng6 { [%eval 0.54] } 28. Rc1 { [%eval 0.52] } 28... Qa4 { [%eval 0.4] } 29. Qd3 { [%eval 0.47] } 29... f5 { [%eval 0.5] } 30. g3 { [%eval 0.47] } 30... fxe4 { [%eval 0.57] } 31. Nxe4 { [%eval 0.58] } 31... Qe8 { [%eval 0.57] } 32. Nc3 { [%eval 0.55] } 32... Re1+ { [%eval 0.55] } 33. Rxe1 { [%eval 0.54] } 33... Qxe1+ { [%eval 0.44] } 34. Kg2 { [%eval 0.39] } 34... Qe8 { [%eval 0.46] } 35. Qb5 { [%eval 0.24] } 35... Qc8 { [%eval 0.45] } 36. Qd3 { [%eval 0.42] } 36... Ne7 { [%eval 0.49] } 37. Qe4 { [%eval 0.34] } 37... c6 { [%eval 0.31] } 38. dxc6 { [%eval 0.27] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.18"]
+[Round "04"]
+[White "Carlsen, Magnus"]
+[Black "Van Foreest, Jorden"]
+[Result "1/2-1/2"]
+[WhiteElo "2865"]
+[BlackElo "2702"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:54:54"]
+[Variant "Standard"]
+[ECO "D78"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Original Defense"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. Nf3 { [%eval 0.22] } 1... d5 { [%eval 0.09] } 2. g3 { [%eval 0.12] } 2... g6 { [%eval 0.32] } 3. Bg2 { [%eval 0.19] } 3... Bg7 { [%eval 0.3] } 4. d4 { [%eval 0.14] } 4... Nf6 { [%eval 0.14] } 5. O-O { [%eval 0.14] } 5... O-O { [%eval 0.07] } 6. c4 { [%eval 0.11] } 6... c6 { [%eval 0.11] } 7. b3 { [%eval 0.0] } 7... Bf5 { [%eval 0.32] } 8. Bb2 { [%eval 0.21] } 8... Nbd7 { [%eval 0.05] } 9. e3 { [%eval 0.13] } 9... Ne4 { [%eval 0.32] } 10. Nc3 { [%eval 0.4] } 10... Nxc3 { [%eval 0.39] } 11. Bxc3 { [%eval 0.42] } 11... Be4 { [%eval 0.45] } 12. Qe2 { [%eval 0.41] } 12... e6 { [%eval 0.39] } 13. Rfd1 { [%eval 0.33] } 13... a5 { [%eval 0.3] } 14. Bf1 { [%eval 0.04] } 14... Bxf3 { [%eval 0.34] } 15. Qxf3 { [%eval 0.29] } 15... Nc5 { [%eval 0.53] } 16. Be1 { [%eval 0.41] } 16... Ne4 { [%eval 0.25] } 17. Bd3 { [%eval 0.42] } 17... f5 { [%eval 0.46] } 18. Rac1 { [%eval 0.0] } 18... g5?! { [%eval 0.67] } { Inaccuracy. Rf7 was best. } (18... Rf7 19. Qe2 Bf8 20. f3 Nf6 21. Bc3 Ba3 22. Rb1 Qe7 23. Rf1 Bb4 24. Bb2 Ba3) 19. Qe2 { [%eval 0.74] } 19... g4 { [%eval 1.13] } 20. Bxe4 { [%eval 1.23] } 20... fxe4 { [%eval 1.24] } 21. Qxg4 { [%eval 1.23] } 21... Qe8 { [%eval 1.62] } 22. cxd5?! { [%eval 0.61] } { Inaccuracy. b4 was best. } (22. b4 h5 23. Qh3 axb4 24. Bxb4 Rf3 25. Rd2 Qf7 26. cxd5 exd5 27. Bd6 Bh6 28. Re2 Kh7) 22... exd5 { [%eval 0.78] } 23. Rc5?! { [%eval 0.0] } { Inaccuracy. b4 was best. } (23. b4 axb4) 23... h5 { [%eval 0.0] } 24. Qh3 { [%eval -0.08] } 24... Qf7? { [%eval 1.02] } { Mistake. b6 was best. } (24... b6) 25. Qg2?! { [%eval 0.26] } { Inaccuracy. Rb1 was best. } (25. Rb1) 25... a4 { [%eval 0.5] } 26. b4?! { [%eval -0.07] } { Inaccuracy. Ra5 was best. } (26. Ra5) 26... Qd7 { [%eval -0.25] } 27. b5 { [%eval 0.0] } 27... h4 { [%eval 0.0] } 28. Rdc1 { [%eval -0.21] } 28... Rf6 { [%eval 0.0] } 29. bxc6?! { [%eval -0.75] } { Inaccuracy. g4 was best. } (29. g4 Bf8 30. R5c2 Ba3 31. bxc6 bxc6 32. Rb1 Kh7 33. h3 Rg8 34. Rb6 Qc7 35. Rb5 Qa7) 29... bxc6 { [%eval -0.49] } 30. g4 { [%eval -0.55] } 30... h3 { [%eval -0.17] } 31. Qxh3 { [%eval -0.68] } 31... Raf8 { [%eval 0.0] } 32. Qg2 { [%eval -0.31] } 32... Rg6 { [%eval 0.0] } 33. g5 { [%eval 0.0] } 33... Rf5? { [%eval 1.12] } { Mistake. Bf6 was best. } (33... Bf6 34. h4 Bd8 35. Rb1 Qc8 36. Ba5 Be7 37. Rb6 Bd8 38. Rb1) 34. h4 { [%eval 1.05] } 34... Bf8 { [%eval 0.68] } 35. R5c2 { [%eval 0.59] } 35... Be7?! { [%eval 1.18] } { Inaccuracy. Rf3 was best. } (35... Rf3) 36. Rb2? { [%eval 0.0] } { Mistake. Kf1 was best. } (36. Kf1) 36... Bxg5? { [%eval 1.37] } { Mistake. Rfxg5 was best. } (36... Rfxg5 37. hxg5 Rxg5 38. Rb8+ Kf7 39. Qxg5 Bxg5 40. Rcb1 Qg4+ 41. Kf1 Qh3+ 42. Ke2 Qf3+ 43. Kd2) 37. Kf1 { [%eval 2.45] } 37... Qa7? { [%eval 4.33] } { Mistake. Qd6 was best. } (37... Qd6 38. hxg5 Rgxg5 39. Qh3 Rh5 40. Qg4+ Rhg5 41. Qd1 Qh2 42. Rcb1 Rf8 43. Ke2 Rg1 44. Rb6) 38. Qg4?? { [%eval 0.0] } { Blunder. Ke2 was best. } (38. Ke2 Kf7 39. hxg5 Qa6+ 40. Kd1 Rfxg5 41. Qh3 Qd3+ 42. Rd2 Qb5 43. Qd7+ Kg8 44. Qa7 Rg1) 38... Qa6+ { [%eval 0.0] } 39. Kg1 { [%eval 0.0] } 39... Rg7 { [%eval 0.0] } 40. Rb8+ { [%eval -0.47] } 40... Bd8 { [%eval -0.58] } 41. Rxd8+ { [%eval -0.59] } 41... Rf8 { [%eval -0.29] } 42. Rxf8+ { [%eval -0.2] } 42... Kxf8 { [%eval -0.47] } 43. Bb4+ { [%eval -0.38] } 43... Kg8 { [%eval -0.14] } 44. Qxg7+ { [%eval -0.01] } 44... Kxg7 { [%eval -0.24] } 45. a3 { [%eval -0.07] } 45... Kg6 { [%eval -0.28] } 46. Kg2 { [%eval 0.0] } 46... Kh5 { [%eval 0.0] } 47. Rh1 { [%eval 0.0] } 47... c5 { [%eval 0.0] } 48. Bxc5 { [%eval 0.0] } 48... Qg6+ { [%eval 0.0] } 49. Kf1 { [%eval 0.0] } 49... Qa6+ { [%eval 0.0] } 50. Kg2 { [%eval 0.0] } 50... Qg6+ { [%eval 0.0] } 51. Kf1 { [%eval 0.0] } 51... Qa6+ { [%eval 0.0] } 52. Kg2 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.20"]
+[Round "05"]
+[White "Grandelius, Nils"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2672"]
+[BlackElo "2865"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:55:14"]
+[Variant "Standard"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. e4 { [%eval 0.25] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... Nc6 { [%eval 0.0] } 3. d4 { [%eval 0.32] } 3... cxd4 { [%eval 0.38] } 4. Nxd4 { [%eval 0.29] } 4... e6 { [%eval 0.28] } 5. Nc3 { [%eval 0.33] } 5... Qc7 { [%eval 0.41] } 6. Be3 { [%eval 0.33] } 6... a6 { [%eval 0.57] } 7. g4 { [%eval 0.39] } 7... Nxd4 { [%eval 0.6] } 8. Qxd4 { [%eval 0.54] } 8... b5 { [%eval 0.55] } 9. O-O-O { [%eval 0.45] } 9... Bb7 { [%eval 0.88] } 10. f3 { [%eval 0.77] } 10... Rc8 { [%eval 0.4] } 11. Qd2 { [%eval 0.74] } 11... Bb4 { [%eval 0.57] } 12. Bd4 { [%eval 0.83] } 12... f6 { [%eval 0.79] } 13. g5 { [%eval 0.77] } 13... h6 { [%eval 0.38] } 14. gxh6 { [%eval 0.6] } 14... Nxh6 { [%eval 0.59] } 15. a3 { [%eval 0.49] } 15... Bxa3 { [%eval 0.68] } 16. bxa3 { [%eval 0.88] } 16... e5 { [%eval 0.5] } 17. Nxb5 { [%eval 0.69] } 17... axb5 { [%eval 0.3] } 18. Bb2 { [%eval 0.53] } 18... d5? { [%eval 1.75] } { Mistake. Nf7 was best. } (18... Nf7 19. h4 d5 20. Bxb5+ Kf8 21. Ba4 d4 22. Bb3 Nd6 23. h5 Rh6 24. Kb1 Ba6 25. f4) 19. Bxb5+ { [%eval 1.59] } 19... Kf8 { [%eval 1.62] } 20. Ba4?! { [%eval 0.57] } { Inaccuracy. Qb4+ was best. } (20. Qb4+ Kg8) 20... d4 { [%eval 0.45] } 21. Bb3 { [%eval 0.57] } 21... Nf7 { [%eval 0.54] } 22. Qb4+? { [%eval -0.65] } { Mistake. h4 was best. } (22. h4 Ba6 23. f4 Bc4 24. Kb1 exf4 25. Qxd4 Rh5 26. Rh3 Ne5 27. Qd2 f3 28. Bxe5 Rxe5) 22... Kg8 { [%eval -0.65] } 23. Rd2 { [%eval -0.94] } 23... Ba6 { [%eval -1.02] } 24. f4 { [%eval -0.86] } 24... Rb8 { [%eval -0.88] } 25. Qa4 { [%eval -0.97] } 25... Bb5 { [%eval -0.89] } 26. Qb4 { [%eval -1.16] } 26... Ba6 { [%eval -0.84] } 27. Qa4 { [%eval -0.7] } 27... Bb5 { [%eval -0.97] } 28. Qb4 { [%eval -0.87] } 28... Rh3 { [%eval -0.8] } 29. fxe5 { [%eval -1.37] } 29... fxe5 { [%eval -0.79] } 30. Rg1?! { [%eval -1.66] } { Inaccuracy. Rf2 was best. } (30. Rf2 Rxb3 31. Qxb3 Bc4 32. Qa4 Ng5 33. Rg2 Nh3 34. Kb1 Nf4 35. Rg5 Bf7 36. Ka1 Ne6) 30... Be2?! { [%eval -0.97] } { Inaccuracy. Ba6 was best. } (30... Ba6 31. Bxf7+ Kh8 32. Rg3 Rh6 33. Bd5 Rxb4 34. axb4 Bb7 35. Rdg2 Bxd5 36. exd5 Rh7 37. Kb1) 31. Bxf7+ { [%eval -0.8] } 31... Kxf7 { [%eval -1.06] } 32. Qa4 { [%eval -1.0] } 32... Qb7 { [%eval -1.17] } 33. Qb4 { [%eval -1.19] } 33... Qc7 { [%eval -0.96] } 34. Qa4 { [%eval -1.11] } 34... Bb5? { [%eval 0.0] } { Mistake. Bc4 was best. } (34... Bc4) 35. Rdg2 { [%eval -0.08] } 35... Rh7 { [%eval 0.0] } 36. Qb3+ { [%eval 0.29] } 36... Bc4 { [%eval 0.0] } 37. Qg3 { [%eval 0.0] } 37... Qb6 { [%eval 0.0] } 38. Qg6+ { [%eval 0.0] } 38... Qxg6 { [%eval 0.06] } 39. Rxg6 { [%eval 0.0] } 39... Rc8 { [%eval 0.0] } 40. R6g5? { [%eval -1.04] } { Mistake. Kb1 was best. } (40. Kb1 Rxh2 41. Rxg7+ Ke8 42. R7g5 Kd7 43. Rxe5 d3 44. cxd3 Rb8 45. dxc4 Rbxb2+ 46. Ka1 Ra2+) 40... Bd3 { [%eval -0.89] } 41. Rf5+ { [%eval -0.92] } 41... Kg8 { [%eval -1.03] } 42. Rf2 { [%eval -0.87] } 42... Rh6 { [%eval -0.87] } 43. Rd1 { [%eval -1.35] } 43... Bxe4?! { [%eval -0.55] } { Inaccuracy. Rf6 was best. } (43... Rf6 44. Rxf6) 44. Re1 { [%eval -0.62] } 44... Rh4 { [%eval -0.59] } 45. a4 { [%eval -0.94] } 45... Rc5?! { [%eval 0.0] } { Inaccuracy. Rc4 was best. } (45... Rc4 46. a5 d3 47. Bxe5 Rh5 48. Bc3 dxc2 49. Rd2 Rb5 50. Rxe4 Rxe4 51. Kxc2 Re7 52. Rd8+) 46. Ba3 { [%eval 0.0] } 46... Rc8 { [%eval 0.06] } 47. Be7 { [%eval 0.07] } 47... Rg4 { [%eval 0.11] } 48. h3 { [%eval 0.09] } 48... Rg2 { [%eval 0.16] } 49. Rxg2 { [%eval 0.02] } 49... Bxg2 { [%eval 0.1] } 50. Rxe5 { [%eval 0.18] } 50... d3 { [%eval 0.07] } 51. Bc5 { [%eval 0.09] } 51... Ra8 { [%eval 0.08] } 52. cxd3 { [%eval 0.11] } 52... Rxa4 { [%eval 0.31] } 53. Kd2 { [%eval 0.16] } 53... Bxh3 { [%eval 0.07] } 54. Re4 { [%eval 0.0] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.21"]
+[Round "06"]
+[White "Carlsen, Magnus"]
+[Black "Rapport, Richard"]
+[Result "1-0"]
+[WhiteElo "2865"]
+[BlackElo "2763"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:55:27"]
+[Variant "Standard"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. Nf3 { [%eval 0.22] } 1... d5 { [%eval 0.09] } 2. d4 { [%eval 0.28] } 2... Nf6 { [%eval 0.09] } 3. c4 { [%eval 0.16] } 3... e6 { [%eval 0.22] } 4. g3 { [%eval 0.18] } 4... dxc4 { [%eval 0.36] } 5. Bg2 { [%eval 0.14] } 5... Nc6 { [%eval 0.3] } 6. O-O { [%eval 0.0] } 6... Rb8 { [%eval 0.2] } 7. Be3 { [%eval 0.0] } 7... Bd6 { [%eval 0.41] } 8. Qc1 { [%eval 0.4] } 8... b5 { [%eval 0.22] } 9. b3 { [%eval 0.25] } 9... Bb7 { [%eval 0.44] } 10. bxc4 { [%eval 0.27] } 10... bxc4 { [%eval 0.54] } 11. Qxc4 { [%eval 0.25] } 11... Nb4 { [%eval 0.24] } 12. a3 { [%eval 0.22] } 12... Nbd5 { [%eval 0.2] } 13. Bg5 { [%eval 0.19] } 13... O-O { [%eval 0.42] } 14. Nbd2 { [%eval 0.21] } 14... h6 { [%eval 0.19] } 15. Bxf6 { [%eval 0.17] } 15... Nxf6 { [%eval 0.12] } 16. Rfc1 { [%eval 0.25] } 16... Nd7 { [%eval 0.12] } 17. Qa4 { [%eval 0.21] } 17... c5 { [%eval 0.17] } 18. Qxa7 { [%eval 0.09] } 18... Bxf3?! { [%eval 0.81] } { Inaccuracy. Bd5 was best. } (18... Bd5) 19. Bxf3 { [%eval 0.43] } 19... cxd4 { [%eval 0.31] } 20. Ra2 { [%eval 0.26] } 20... Qe7? { [%eval 1.55] } { Mistake. Ne5 was best. } (20... Ne5 21. Be4) 21. a4 { [%eval 1.14] } 21... Rfd8?! { [%eval 1.95] } { Inaccuracy. Rb4 was best. } (21... Rb4 22. a5) 22. Qxd4 { [%eval 1.84] } 22... Rb4?! { [%eval 2.74] } { Inaccuracy. Ne5 was best. } (22... Ne5 23. Qe3 Nxf3+ 24. Qxf3 Bb4 25. Nc4 Qg5 26. Rcc2 Rd5 27. Ne3 Rc5 28. Kg2 Ba5 29. Rxc5) 23. Qc3 { [%eval 2.48] } 23... Nb6? { [%eval 4.11] } { Mistake. Ne5 was best. } (23... Ne5 24. Be4 Qa7 25. a5 Rb5 26. a6 f5 27. Bd3 Rc5 28. Nc4 Rc6 29. Rca1 Rdc8 30. Ra4) 24. a5 { [%eval 4.19] } 24... Qa7 { [%eval 4.28] } 25. Qe3 { [%eval 4.17] } 25... Be7? { [%eval 7.05] } { Mistake. Bb8 was best. } (25... Bb8 26. Qa3 Ra4 27. axb6 Rxa3 28. bxa7 Rxa2 29. a8=Q Rxa8 30. Bxa8 Bxg3 31. hxg3 Rxd2 32. Rc8+) 26. Rcc2 { [%eval 6.81] } 26... Bg5 { [%eval 6.85] } 27. Qc5 { [%eval 6.84] } 27... Be7 { [%eval 8.1] } 28. axb6 { [%eval 8.0] } 28... Qxa2 { [%eval 7.98] } 29. Qxe7 { [%eval 7.48] } 29... Qxc2 { [%eval 7.92] } 30. Qxd8+ { [%eval 7.88] } 30... Kh7 { [%eval 7.89] } 31. b7 { [%eval 7.75] } { 1-0 Black resigns. } 1-0
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.22"]
+[Round "07"]
+[White "Praggnanandhaa, R"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[WhiteElo "2612"]
+[BlackElo "2865"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:55:37"]
+[Variant "Standard"]
+[ECO "D27"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Main Line"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. d4 { [%eval 0.3] } 1... d5 { [%eval 0.28] } 2. c4 { [%eval 0.35] } 2... e6 { [%eval 0.32] } 3. Nf3 { [%eval 0.0] } 3... dxc4 { [%eval 0.25] } 4. e3 { [%eval 0.13] } 4... a6 { [%eval 0.4] } 5. Bxc4 { [%eval 0.25] } 5... Nf6 { [%eval 0.2] } 6. O-O { [%eval 0.17] } 6... c5 { [%eval 0.36] } 7. b3 { [%eval 0.19] } 7... b6 { [%eval 0.58] } 8. Ba3 { [%eval 0.78] } 8... Nbd7 { [%eval 0.6] } 9. d5 { [%eval 0.52] } 9... exd5 { [%eval 0.7] } 10. Bxd5 { [%eval 0.52] } 10... Rb8 { [%eval 0.6] } 11. Bb2 { [%eval 0.87] } 11... Be7 { [%eval 0.59] } 12. Nc3 { [%eval 0.58] } 12... O-O { [%eval 1.03] } 13. Qc2 { [%eval 1.0] } 13... b5 { [%eval 0.69] } 14. Rfd1?! { [%eval 0.17] } { Inaccuracy. Rad1 was best. } (14. Rad1 Qc7 15. Ng5 g6 16. f4 c4 17. Ne6 fxe6 18. Bxe6+ Rf7 19. Nd5 Nxd5 20. Bxd5 Nf6) 14... Qc7?! { [%eval 0.91] } { Inaccuracy. h6 was best. } (14... h6) 15. a4? { [%eval -0.52] } { Mistake. Ng5 was best. } (15. Ng5 g6 16. h3 b4 17. Nce4 Nxd5 18. Rxd5 h6 19. Nf3 Bb7 20. Rd2 Qc6 21. Ng3 Nb6) 15... h6?! { [%eval 0.11] } { Inaccuracy. b4 was best. } (15... b4) 16. axb5 { [%eval 0.33] } 16... axb5 { [%eval 0.23] } 17. Qe2 { [%eval 0.25] } 17... Qb6 { [%eval -0.1] } 18. e4 { [%eval 0.11] } 18... Re8 { [%eval 0.04] } 19. Qd2?! { [%eval -0.64] } { Inaccuracy. e5 was best. } (19. e5) 19... Bf8 { [%eval -0.71] } 20. Qf4 { [%eval -1.08] } 20... b4 { [%eval -1.18] } 21. Na4 { [%eval -1.21] } 21... Nxd5 { [%eval -1.29] } 22. Rxd5 { [%eval -1.26] } 22... Qe6?! { [%eval -0.59] } { Inaccuracy. Qc6 was best. } (22... Qc6) 23. Rad1?? { [%eval -2.8] } { Blunder. Nxc5 was best. } (23. Nxc5 Bxc5) 23... Ra8 { [%eval -3.08] } 24. Qc1 { [%eval -2.92] } 24... Qxe4 { [%eval -2.73] } 25. h3 { [%eval -2.68] } 25... Ra7 { [%eval -2.94] } 26. Qd2 { [%eval -3.28] } 26... Qg6 { [%eval -2.87] } 27. Nh4 { [%eval -3.12] } 27... Qe6 { [%eval -3.07] } 28. Nf5 { [%eval -3.49] } 28... c4? { [%eval -1.57] } { Mistake. Bb7 was best. } (28... Bb7 29. Nxh6+) 29. Qd4?? { [%eval -4.12] } { Blunder. Bxg7 was best. } (29. Bxg7 Bxg7) 29... Nf6 { [%eval -4.18] } 30. Nb6? { [%eval -8.81] } { Mistake. Nxg7 was best. } (30. Nxg7 Bxg7 31. Rd6 Qxd6 32. Qxd6 Rd7 33. Bxf6 Rxd6 34. Rxd6 c3 35. Bxg7 Kxg7 36. Nxc3 bxc3) 30... c3 { [%eval -8.85] } 31. Nxc8 { [%eval -8.95] } 31... Qxd5 { [%eval -8.46] } 32. Qxd5 { [%eval -9.12] } 32... Nxd5 { [%eval -9.0] } 33. Nxa7 { [%eval -9.05] } 33... cxb2 { [%eval -9.13] } 34. Rb1 { [%eval -9.07] } 34... Re2 { [%eval -9.08] } { 0-1 White resigns. } 0-1
+
+
+[Event "Tata Steel Chess Masters 2022"]
+[Site "Chess.com"]
+[Date "2022.01.23"]
+[Round "08"]
+[White "Shankland, Sam"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[WhiteElo "2708"]
+[BlackElo "2865"]
+[TimeControl "5400+30"]
+[UTCDate "2022.01.24"]
+[UTCTime "21:55:45"]
+[Variant "Standard"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Schara Gambit"]
+[Annotator "https://lichess.org/@/penguin56"]
+
+1. d4 { [%eval 0.3] } 1... d5 { [%eval 0.28] } 2. c4 { [%eval 0.35] } 2... e6 { [%eval 0.32] } 3. Nc3 { [%eval 0.39] } 3... c5 { [%eval 0.51] } 4. cxd5 { [%eval 0.42] } 4... cxd4 { [%eval 0.64] } 5. Qa4+ { [%eval 0.69] } 5... Bd7 { [%eval 0.84] } 6. Qxd4 { [%eval 0.62] } 6... exd5 { [%eval 0.67] } 7. Qxd5 { [%eval 0.62] } 7... Nf6 { [%eval 0.66] } 8. Qb3 { [%eval 0.65] } 8... Na6 { [%eval 0.49] } 9. Nf3 { [%eval 0.47] } 9... Nc5 { [%eval 0.46] } 10. Qc2 { [%eval 0.45] } 10... Rc8 { [%eval 0.61] } 11. e3 { [%eval 0.46] } 11... Nce4 { [%eval 0.89] } 12. Bd3 { [%eval 0.56] } 12... Nxc3 { [%eval 0.71] } 13. bxc3 { [%eval 0.82] } 13... Nd5 { [%eval 0.42] } 14. O-O { [%eval 0.67] } 14... Nxc3 { [%eval 0.61] } 15. Bb2 { [%eval 0.86] } 15... Bb4 { [%eval 0.46] } 16. Bxc3 { [%eval 0.2] } 16... Bxc3 { [%eval 0.41] } 17. Rab1 { [%eval 0.12] } 17... Bf6 { [%eval 0.19] } 18. Qe2 { [%eval 0.18] } 18... Rc7 { [%eval 0.18] } 19. e4 { [%eval 0.0] } 19... O-O { [%eval -0.05] } 20. e5 { [%eval 0.0] } 20... Be7 { [%eval -0.03] } 21. Nd4 { [%eval 0.02] } 21... Bc5 { [%eval 0.0] } 22. e6 { [%eval 0.07] } 22... Bxe6 { [%eval 0.07] } 23. Nxe6 { [%eval 0.0] } 23... fxe6 { [%eval 0.0] } 24. Qxe6+ { [%eval 0.0] } 24... Kh8 { [%eval 0.0] } 25. Qh3 { [%eval -0.25] } 25... h6 { [%eval -0.24] } 26. Qg3 { [%eval -0.25] } 26... Rd7 { [%eval -0.23] } 27. Rb3 { [%eval -0.29] } 27... Rf6 { [%eval -0.09] } 28. h3 { [%eval -0.32] } 28... b6 { [%eval -0.21] } 29. Be2 { [%eval -0.43] } 29... Rd2 { [%eval -0.21] } 30. Rd3 { [%eval -0.23] } 30... Rxd3 { [%eval -0.22] } 31. Bxd3?! { [%eval -0.85] } { Inaccuracy. Qxd3 was best. } (31. Qxd3 Qxd3 32. Bxd3 g5 33. Bb5 Rf4 34. g3 Rb4 35. a4 a6 36. Bxa6 Rxa4 37. Bb5 Rb4) 31... Qd6?! { [%eval -0.2] } { Inaccuracy. Qd5 was best. } (31... Qd5) 32. Qxd6 { [%eval 0.0] } 32... Rxd6 { [%eval -0.17] } 33. Rd1 { [%eval 0.0] } 33... g5 { [%eval -0.19] } 34. Kf1 { [%eval -0.15] } 34... Kg7 { [%eval -0.06] } 35. Bc2 { [%eval -0.24] } { 1/2-1/2 The game is a draw. } 1/2-1/2
+
+
